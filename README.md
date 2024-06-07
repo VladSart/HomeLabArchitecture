@@ -1,49 +1,69 @@
+
+
+
+
+```mermaid
 graph TD
-    subgraph Beginner [Beginner Level]
-        A1[Fundamentals of Cloud Computing]
-        A2[Azure Core Services]
-        A3[Hands-On Labs]
-    end
-    
-    subgraph Intermediate [Intermediate Level]
-        B1[Advanced Azure Services]
-        B2[Architectural Patterns and Best Practices]
-        B3[Intermediate Certifications]
-    end
-    
-    subgraph Advanced [Advanced Level]
-        C1[Complex Solutions and Design]
-        C2[Specialized Services and Industry Solutions]
-        C3[Advanced Certifications]
-    end
-    
-    subgraph Expert [Expert Level]
-        D1[Continuous Learning and Staying Updated]
-        D2[Mentoring and Sharing Knowledge]
-        D3[Advanced Architect Certifications]
-    end
-    
-    A1 -->|4 weeks| A2
-    A2 -->|4 weeks| A3
-    A3 -->|4 weeks| B1
-    
-    B1 -->|8 weeks| B2
-    B2 -->|4 weeks| B3
-    B3 -->|8 weeks| C1
-    
-    C1 -->|8 weeks| C2
-    C2 -->|8 weeks| C3
-    C3 -->|8 weeks| D1
-    
-    D1 -->|Ongoing| D2
-    D2 -->|Ongoing| D3
+    A[Azure]
+    B[Automate Infrastructure Deployment]
+    C[Host Web Applications]
+    D[AI and Machine Learning]
+    E[M365 Intune/Autopilot]
+    F[Device Management]
+    G[Security Compliance]
+    H[Software Deployment]
+    I[Ansible]
+    J[Automated Configuration Management]
+    K[Environment Setup]
+    L[Cross-Platform Orchestration]
+    M[Proxmox]
+    N[Virtualization and Containerization]
+    O[High Availability Clusters]
+    P[Backup and Restore]
+    Q[Meraki]
+    R[Network Management]
+    S[Automated Network Provisioning]
+    T[Security Monitoring]
+    U[Windows Server]
+    V[Active Directory Services]
+    W[Hyper-V Virtualization]
+    X[File and Print Services]
+    Y[Hybrid Cloud Management]
+    Z[Automated Provisioning and Configuration]
+    AA[Secure Network Infrastructure]
+    AB[Unified Monitoring and Management]
 
-    classDef beginner fill:#f9f,stroke:#333,stroke-width:4px;
-    classDef intermediate fill:#bbf,stroke:#333,stroke-width:4px;
-    classDef advanced fill:#bfb,stroke:#333,stroke-width:4px;
-    classDef expert fill:#ffb,stroke:#333,stroke-width:4px;
+    A --> B
+    A --> C
+    A --> D
+    E --> F
+    E --> G
+    E --> H
+    I --> J
+    I --> K
+    I --> L
+    M --> N
+    M --> O
+    M --> P
+    Q --> R
+    Q --> S
+    Q --> T
+    U --> V
+    U --> W
+    U --> X
+    A --> Y
+    M --> Y
+    U --> Y
+    I --> Z
+    A --> Z
+    E --> Z
+    M --> Z
+    A --> AA
+    E --> AA
+    Q --> AA
+    A --> AB
+    M --> AB
+    Q --> AB
 
-    class A1,A2,A3 beginner;
-    class B1,B2,B3 intermediate;
-    class C1,C2,C3 advanced;
-    class D1,D2,D3 expert;
+
+```
