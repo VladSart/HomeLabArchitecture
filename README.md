@@ -8,7 +8,7 @@ bladibla
 <!-- eraser-additional-content -->
 ## Diagrams
 <!-- eraser-additional-files -->
-<a href="/README-Infrastructure and Service Management-1.eraserdiagram" data-element-id="H1wn_Len2eOd1BXfnHSuJ"><img src="/.eraser/SKa3LMO2mJfFYfpZrLoI___Bc24ZxBLoDScuOMV0w4wEzhT0fj1___---diagram----25a446d462ff52413aaf914b56dd929a-Infrastructure-and-Service-Management.png" alt="" data-element-id="H1wn_Len2eOd1BXfnHSuJ" /></a>
+<a href="/README-Infrastructure and Service Management-1.eraserdiagram" data-element-id="H1wn_Len2eOd1BXfnHSuJ"><img src="/.eraser/SKa3LMO2mJfFYfpZrLoI___Bc24ZxBLoDScuOMV0w4wEzhT0fj1___---diagram----3ad16eb72e41b2ca2a6447b0e9261c8a-Infrastructure-and-Service-Management.png" alt="" data-element-id="H1wn_Len2eOd1BXfnHSuJ" /></a>
 <!-- end-eraser-additional-files -->
 <!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/SKa3LMO2mJfFYfpZrLoI --->
