@@ -1,0 +1,95 @@
+cloud-architecture-diagram
+
+// Title and nodes
+title Comprehensive IT Infrastructure Architecture
+
+Azure [icon: azure]
+M365 Intune/Autopilot [icon: azure]
+Ansible [icon: ansible]
+Proxmox [icon: proxmox]
+Meraki [icon: meraki]
+Windows Server [icon: windows]
+
+// Groups and nodes
+Azure Services [color: blue, icon: azure] {
+  Automate Infrastructure Deployment [icon: azure-devops]
+  Host Web Applications [icon: azure-app-service]
+  AI and Machine Learning [icon: azure-machine-learning]
+  Hybrid Cloud Management [icon: azure-arc]
+  Automated Provisioning and Configuration [icon: azure-automation]
+  Secure Network Infrastructure [icon: azure-network-security]
+  Unified Monitoring and Management [icon: azure-monitor]
+}
+
+M365 Services [color: blue, icon: azure] {
+  Device Management [icon: azure-intune]
+  Security Compliance [icon: azure-security-center]
+  Software Deployment [icon: azure-devops]
+  Automated Provisioning and Configuration [icon: azure-automation]
+  Secure Network Infrastructure [icon: azure-network-security]
+}
+
+Ansible Services [color: red, icon: ansible] {
+  Automated Configuration Management [icon: ansible]
+  Environment Setup [icon: ansible]
+  Cross-Platform Orchestration [icon: ansible]
+  Automated Provisioning and Configuration [icon: ansible]
+}
+
+Proxmox Services [color: green, icon: proxmox] {
+  Virtualization and Containerization [icon: proxmox]
+  High Availability Clusters [icon: proxmox]
+  Backup and Restore [icon: proxmox]
+  Hybrid Cloud Management [icon: proxmox]
+  Automated Provisioning and Configuration [icon: proxmox]
+  Unified Monitoring and Management [icon: proxmox]
+}
+
+Meraki Services [color: orange, icon: meraki] {
+  Network Management [icon: meraki]
+  Automated Network Provisioning [icon: meraki]
+  Security Monitoring [icon: meraki]
+  Secure Network Infrastructure [icon: meraki]
+  Unified Monitoring and Management [icon: meraki]
+}
+
+Windows Server Services [color: gray, icon: windows] {
+  Active Directory Services [icon: windows]
+  Hyper-V Virtualization [icon: windows]
+  File and Print Services [icon: windows]
+  Hybrid Cloud Management [icon: windows]
+}
+
+// Connections
+Azure > Automate Infrastructure Deployment
+Azure > Host Web Applications
+Azure > AI and Machine Learning
+M365 Intune/Autopilot > Device Management
+M365 Intune/Autopilot > Security Compliance
+M365 Intune/Autopilot > Software Deployment
+Ansible > Automated Configuration Management
+Ansible > Environment Setup
+Ansible > Cross-Platform Orchestration
+Proxmox > Virtualization and Containerization
+Proxmox > High Availability Clusters
+Proxmox > Backup and Restore
+Meraki > Network Management
+Meraki > Automated Network Provisioning
+Meraki > Security Monitoring
+Windows Server > Active Directory Services
+Windows Server > Hyper-V Virtualization
+Windows Server > File and Print Services
+Azure > Hybrid Cloud Management
+Proxmox > Hybrid Cloud Management
+Windows Server > Hybrid Cloud Management
+Ansible > Automated Provisioning and Configuration
+Azure > Automated Provisioning and Configuration
+M365 Intune/Autopilot > Automated Provisioning and Configuration
+Proxmox > Automated Provisioning and Configuration
+Azure > Secure Network Infrastructure
+M365 Intune/Autopilot > Secure Network Infrastructure
+Meraki > Secure Network Infrastructure
+Azure > Unified Monitoring and Management
+Proxmox > Unified Monitoring and Management
+Meraki > Unified Monitoring and Management
+

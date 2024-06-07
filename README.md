@@ -1,69 +1,18 @@
+<p><a target="_blank" href="https://app.eraser.io/workspace/SKa3LMO2mJfFYfpZrLoI" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+
+bladibla
+
+[﻿HomeLab Architecture](https://app.eraser.io/workspace/wg5iW9VeA3DaLsre4N54)
+
+ [﻿View on canvas](https://app.eraser.io/workspace/SKa3LMO2mJfFYfpZrLoI?elements=9JQpj-5hpnGXP16ExUda5w) 
+
+ 
 
 
-
-
-```mermaid
-graph TD
-    A[Azure]
-    B[Automate Infrastructure Deployment]
-    C[Host Web Applications]
-    D[AI and Machine Learning]
-    E[M365 Intune/Autopilot]
-    F[Device Management]
-    G[Security Compliance]
-    H[Software Deployment]
-    I[Ansible]
-    J[Automated Configuration Management]
-    K[Environment Setup]
-    L[Cross-Platform Orchestration]
-    M[Proxmox]
-    N[Virtualization and Containerization]
-    O[High Availability Clusters]
-    P[Backup and Restore]
-    Q[Meraki]
-    R[Network Management]
-    S[Automated Network Provisioning]
-    T[Security Monitoring]
-    U[Windows Server]
-    V[Active Directory Services]
-    W[Hyper-V Virtualization]
-    X[File and Print Services]
-    Y[Hybrid Cloud Management]
-    Z[Automated Provisioning and Configuration]
-    AA[Secure Network Infrastructure]
-    AB[Unified Monitoring and Management]
-
-    A --> B
-    A --> C
-    A --> D
-    E --> F
-    E --> G
-    E --> H
-    I --> J
-    I --> K
-    I --> L
-    M --> N
-    M --> O
-    M --> P
-    Q --> R
-    Q --> S
-    Q --> T
-    U --> V
-    U --> W
-    U --> X
-    A --> Y
-    M --> Y
-    U --> Y
-    I --> Z
-    A --> Z
-    E --> Z
-    M --> Z
-    A --> AA
-    E --> AA
-    Q --> AA
-    A --> AB
-    M --> AB
-    Q --> AB
-
-
-```
+<!-- eraser-additional-content -->
+## Diagrams
+<!-- eraser-additional-files -->
+<a href="/README-Comprehensive IT Infrastructure Architecture-1.eraserdiagram" data-element-id="TZO9NiV2UAijCqFJTwXwN"><img src="/.eraser/SKa3LMO2mJfFYfpZrLoI___Bc24ZxBLoDScuOMV0w4wEzhT0fj1___---diagram----b732f3e725758f96a0a52f413b48eb9c-Comprehensive-IT-Infrastructure-Architecture.png" alt="" data-element-id="TZO9NiV2UAijCqFJTwXwN" /></a>
+<!-- end-eraser-additional-files -->
+<!-- end-eraser-additional-content -->
+<!--- Eraser file: https://app.eraser.io/workspace/SKa3LMO2mJfFYfpZrLoI --->
