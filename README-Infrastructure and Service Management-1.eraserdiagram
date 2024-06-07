@@ -50,35 +50,30 @@ Secure Network Infrastructure [icon: shield, icon-size: large]
 Unified Monitoring and Management [icon: eye, icon-size: large]
 
 Azure > Automate Infrastructure Deployment
-Azure > Host Web Applications
-Azure > AI and Machine Learning
+Automate Infrastructure Deployment > Host Web Applications
+Host Web Applications > AI and Machine Learning
+AI and Machine Learning > Hybrid Cloud Management
 
 M365 Intune/Autopilot > Device Management
-M365 Intune/Autopilot > Security Compliance
-M365 Intune/Autopilot > Software Deployment
+Device Management > Security Compliance
+Security Compliance > Software Deployment
+Software Deployment > Automated Provisioning and Configuration
 
 Ansible > Automated Configuration Management
-Ansible > Environment Setup
-Ansible > Cross-Platform Orchestration
+Automated Configuration Management > Environment Setup
+Environment Setup > Cross-Platform Orchestration
+Cross-Platform Orchestration > Automated Provisioning and Configuration
 
 Proxmox > Virtualization and Containerization
-Proxmox > High Availability Clusters
-Proxmox > Backup and Restore
+Virtualization and Containerization > High Availability Clusters
+High Availability Clusters > Backup and Restore
+Backup and Restore > Hybrid Cloud Management
 
 Meraki > Network Management
-Meraki > Automated Network Provisioning
-Meraki > Security Monitoring
+Network Management > Automated Network Provisioning
+Automated Network Provisioning > Security Monitoring
+Security Monitoring > Secure Network Infrastructure
 
 Windows Server > Active Directory Services
-Windows Server > Hyper-V Virtualization
-Windows Server > File and Print Services
-
-Azure > Hybrid Cloud Management
-Proxmox > Hybrid Cloud Management
-Windows Server > Hybrid Cloud Management
-
-Ansible > Automated Provisioning and Configuration
-Azure > Automated Provisioning and Configuration
-M365 Intune/Autopilot > Automated Provisioning and Configuration
-Proxmox > Automated Provisioning and Configuration
+Active Directory Services > Hyper-V Virtualization
 
